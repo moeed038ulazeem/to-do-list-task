@@ -11,7 +11,7 @@ btn.addEventListener("click",function(){
      h1.id="newText";
      var btn1= document.createElement('button');
      btn1.id="delete-btn";
-     btn1.textContent="Remove";
+     btn1.textContent="Delete Task";
     h1.textContent=` ${counter}: ${text}`;
     document.getElementById("parent-div").append(h1,btn1);
     document.getElementById("screen").value = "";
