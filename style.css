@@ -49,10 +49,11 @@ button{
 #newText{
 color:rgb(0, 0, 0) ;
 padding: 10px;
-background-color: rgba(31, 208, 182, 0.36);
+background-color: rgba(36, 109, 98, 0.36);
 word-break: break-all;
 margin-left: 50px;
 display: flex;
+border-radius: 50px;
 }
 #delete-btn{
 background-color: white;
